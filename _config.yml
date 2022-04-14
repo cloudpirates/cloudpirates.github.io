@@ -1,24 +1,27 @@
 # ----
 # Site
 
-title: Cloud Pirates
+remote_theme: CloudCannon/frisco-jekyll-template@main
+
+title: Cloud Pirates - collaborative co-working space
 url: "https://brave-submarine.cloudvent.net"
 baseurl:
-google_analytics_key:
+google_analytics_key: "G-2JVEKLC0CH"
 google_maps_javascript_api_key:
 disqus_shortname:
+markdown: kramdown
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: Cloud Pirates - collaborative co-working space.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Cloud Pirates
+  email: info@cloudpirates.nl
+  twitter: cloudpirates_ams
 social:
-  name: Frisco Template
+  name: Cloud Pirates
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://github.com/cloudpirates/
 
 # -----
 # Build
@@ -33,12 +36,18 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENCE.jekyll_theme
+  - .DEREK.yml
+  - .gitignore
+  - CNAME
 
 collections:
   staff_members:
@@ -49,7 +58,13 @@ paginate: 10
 paginate_path: "/blog/:num/"
 
 jekyll-archives:
-  enabled: ['categories']
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 defaults:
   -
@@ -106,15 +121,11 @@ defaults:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - Email
-  - RSS
 
 _comments:
   description: Text shown when sharing on social media

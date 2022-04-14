@@ -2,9 +2,9 @@
 title: Contact
 description: Send us a message to find out more!
 map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
+  latitude: 52.375680
+  longitude: 4.926016
+  address: "Piet Heinkade 217, Amsterdam, The Netherlands"
   zoom: 13
 image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 ---
@@ -21,7 +21,7 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 <section class="pad">
 	<div class="text-container contact-box">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="support@cloudcannon.com">
+			<input type="hidden" name="_to" value="info@cloudpirates.nl">
 			<input type="text" name="_gotcha" style="display: none;">
 
 			<label for="name">Name</label>
@@ -41,7 +41,7 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 			<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 			<h3>Email</h3>
-			<p class="editable"><a href="mailto:support@example.com">support@example.com</a></p>
+			<p class="editable"><a href="mailto:info@cloudpirates.nl">info@cloudpirates.nl</a></p>
 		</div>
 	</div>
 </section>
