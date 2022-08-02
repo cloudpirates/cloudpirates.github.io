@@ -1,4 +1,4 @@
 ---
-title: "Our Blog"
+title: "Cloud Pirates blog"
 ---
 

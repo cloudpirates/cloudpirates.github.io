@@ -5,4 +5,6 @@ testimonial:
     testimonialDetails: "Behind every great space, there is a great mind"
   - author: "MongoDB"
     testimonialDetails: "Feels like home"
+  - author: "Steve Jobs"
+    testimonialDetails: "Why join the Navy if you can be a pirate?"
 ---
