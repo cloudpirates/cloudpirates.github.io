@@ -1,8 +1,8 @@
 ---
-title: "A Cancer Survivor Built a Wellness Platform"
+title: "Cloud Pirates - The story so far"
 date: 2022-01-06T11:16:38+06:00
 featureImage: images/blog/blog-thumb-1.jpg
-tags: [ "Web Design"]
+tags: [ "Cloud Pirates"]
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
 
