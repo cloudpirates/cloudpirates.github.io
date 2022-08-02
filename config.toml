@@ -1,0 +1,93 @@
+baseURL = 'https://cloudpirates.github.io'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Cloud Pirates'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Gallery"
+  url= "#gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "Features"
+  url= "#service"
+  weight = 2
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 6
+  [[menu.Main]]
+  name = "Blog"
+  url= "#blog"
+  weight = 3
+  [[menu.Main]]
+  name = "Pricing"
+  url= "#pricing"
+  weight = 4
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 5
+  [[menu.Main]]
+  name = "Contact"
+  url= "/contact/"
+  weight = 7
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
+  
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} Cloud Pirates B.V."
+  formspreeURL = "https://formspree.io/mbjwlead"
+  googleAnalytics = "G-LFD1LL33N6"
+  logo = "images/skull.png"
+  footerlogo = "images/bottom.png"
+  footerDescription = "A collaborative space for cloud native, data and DevOps engineers"
+
+
+  [params.address]
+  address = "Piet Heinkade 217, 1087AW, Amsterdam, The Netherlands"
+  email = "info@cloudpirates.nl"
+  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
+  openingHours = "We are open from 9am — 5pm week days."
+  phone = "+(31) 643197789"
+
+  [params.map]
+  APIkey = "AIzaSyCy5OeQLbF2Hmo1f3yD_5oN8x9zm5d7PrY"
+  latitude = "52.375686"
+  longitude = "4.926027"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/cloudpiratesams"
+  weight = 1
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  url = "https://twitter.com/cloudpiratesnl"
+  weight = 2
+  [[params.social]]
+  icon = "ti-linkedin"
+  url = "https://dribbble.com/"
+  weight = 3
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/"
+  weight = 4
+  
+  

@@ -1,0 +1,27 @@
+---
+enable: true
+title: "Simple pricing for everyone"
+subtitle: >
+          Whether you're looking for a full-time workspace or are just visiting Amsterdam,
+           we've got an option for everyone
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Daily"
+    description: >
+                The space for a day, free coffee, free 3D printing, use it for your team or for yourself. Check for availability of
+                one of the member to introduce you and allow you in.
+    price: 29
+    popular: 
+  - packcage: "Weekly"
+    description: >
+                Is your team in town? Book the Cloud Pirates for your offsites and enjoy the digital whiteboard,
+                large projector, the spacious seating area and the DJ booth to relax at the end of the day.
+    price: 99
+    popular: yes
+  - packcage: "Monthly"
+    description: >
+                Full access to the office, you can organise your events, stay longer hours, and you are a full
+                member of our community and you can organize events and meetups.
+    price: 299
+    value: most value
+---

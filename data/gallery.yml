@@ -1,0 +1,15 @@
+---
+title : "Take a look at our gallery"
+enable: true
+subtitle: >
+        We are a new concept of co-working space based on collaboration rather than profit; we want to give the
+        space and the opportunity to technologists, artists, freelancers, creatives and marauders to get together, collaborate and
+        create without commercial constraints.
+galleryImage: 
+ - image: "images/gallery/gallery01.jpg"
+ - image: "images/gallery/gallery02.jpg"
+ - image: "images/gallery/gallery03.jpg"
+ - image: "images/gallery/gallery04.jpg"
+ - image: "images/gallery/gallery05.jpg"
+ - image: "images/gallery/gallery06.jpg"
+---

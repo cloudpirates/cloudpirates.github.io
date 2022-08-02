@@ -1,0 +1,7 @@
+---
+enable: true
+title: "Customers"
+clients:
+  - image: "images/client/clients01.png"
+  - image: "images/client/clients02.png"
+---

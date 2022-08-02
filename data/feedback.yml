@@ -1,0 +1,8 @@
+---
+enable: true
+title: "Valuable Feedback"
+feedback: >
+          ‘We love your space! It's cozy and relaxing, perfect place to host meetups, have a coffee and learn from other cloud engineers.’
+feedbackAuthor: "Meetup attendee, Kubernetes Meetup, April"
+backgroundImage: images/testimonial-bg.jpg
+---

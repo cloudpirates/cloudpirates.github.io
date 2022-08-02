@@ -1,0 +1,8 @@
+---
+enable: true
+testimonial:
+  - author: "Fika.Works"
+    testimonialDetails: "Behind every great space, there is a great mind"
+  - author: "MongoDB"
+    testimonialDetails: "Feels like home"
+---

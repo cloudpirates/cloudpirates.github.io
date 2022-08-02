@@ -1,0 +1,19 @@
+---
+enable: true
+title: "Our Communities"
+subtitle: >
+          This is some of the communities hosted at Cloud Pirates office
+community:
+  - name: "DeFi Amsterdam"
+    post: ""
+    image: "images/team/design-team-01.jpg"
+    url: https://google.com
+  - name: "Dutch Kubernetes/Cloud Native Meetup"
+    post: "Founder/Cloud Engineer"
+    image: "images/team/design-team-02.jpg"
+    url: https://google.com
+  - name: "Serverless Amsterdam"
+    post: "Founder/Cloud Engineer"
+    image: "images/team/design-team-03.jpg"
+    url: https://google.com
+---

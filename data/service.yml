@@ -1,0 +1,36 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+          We enable people and businesses to work without constraints, in a relaxed and open space, 
+          when they want and how they want.
+services:
+  - name: "Largest Network"
+    description: >
+                Our founders have been in the industry for decades, and have built large tech communities
+    icon: "ti-view-grid"
+  - name: "All Sizes And Budget"
+    description: >
+                We offer flexible plans and full control over your time and schedule.
+    icon: "ti-infinite"
+  - name: "You are not a customer"
+    description: >
+                We encourage active participation and direct involvement in the running and growing of our space from all
+                members. You get full access and agency to decide and steer the direction and influence the agenda.
+    icon: "ti-help-alt"
+  - name: "Easy Payment"
+    description: >
+                We are fully transparent and flexible. Our goal is to break even and support the work and professional growth of our
+                members and communities.
+    icon: "ti-credit-card"
+  - name: "Central and accessible location"
+    description: >
+                Our office is 15 minutes walking from Amsterdam Central Station, is located near a large body of water and
+                surrounded by shops, restaurants and cafes. We also have two parking spots available on first come first serve basis.
+    icon: "ti-lock"
+  - name: "Fun environment"
+    description: >
+                We are a fun bunch, we know how to take it easy. We have a full DJ booth, nerf guns, xbox and whatnot for chilling
+                after a day of work.
+    icon: "ti-image"
+---

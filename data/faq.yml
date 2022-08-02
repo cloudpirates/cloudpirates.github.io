@@ -1,0 +1,23 @@
+---
+enable: true
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. How do I apply?"
+    answer:  "Get in touch via the contact form"
+            
+  - question: "Q. Can I park my car?"
+    answer: >
+            Absolutely! We have two parking spots. First park in front of the office (number 217), come in to collect the parking card
+            and then park in the parking "Amerika", just 50 meters away.
+  - question: "Q. How can I make a change to my application?"
+    answer: >
+            We have a 2-months cancellation policy.
+  - question: "Q. What are entry requirements?"
+    answer: >
+            None. We prioritize applications from freelancers and cloud native engineers, but our doors are open to everyone
+  - question: "Q. Can I host my event at Cloud Pirates?"
+    answer: >
+            We are delighted to host any kind of event at the office. We have full facilities to record and stream professionally, 
+            80+ chairs, 150" projector, digital whiteboard and 6 wireless microphones. We'd be happy to support you and your community or company
+             and promote your events through our extensive network.
+---

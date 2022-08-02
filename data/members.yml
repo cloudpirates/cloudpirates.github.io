@@ -1,0 +1,23 @@
+---
+enable: true
+title: "Our Members"
+subtitle: >
+          This is some of the Pirates that are regularly using our office
+members:
+  - name: "Fabrizio Marras"
+    post: "Founder/Developer"
+    image: "images/team/fabrizio.jpg"
+    url: https://google.com
+  - name: "Etienne Tremel"
+    post: "Freelance/Cloud Engineer"
+    image: "images/team/etienne.jpg"
+    url: https://google.com
+  - name: "Catalin Jora"
+    post: "Freelance/Cloud Engineer"
+    image: "images/team/catalin.jpg"
+    url: https://google.com
+  - name: "Alessandro Vozza"
+    post: "Founder"
+    image: "images/team/alessandro.jpg"
+    url: https://google.com
+---
