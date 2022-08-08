@@ -6,7 +6,7 @@ faq:
     answer:  "`Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach`` (from <a href='https://github.com/cncf/foundation/blob/main/charter.md'>CNCF charter</a>)."
 
   - question: "Q. How do I apply?"
-    answer:  "Get in touch via the contact form"
+    answer:  "Get in touch via the contact form, or call +31643197789, or email <a href='mailto:info@cloudpirates.nl'>info [at] cloudpirates.nl</a>"
             
   - question: "Q. Can I park my car?"
     answer: >
@@ -14,7 +14,7 @@ faq:
             and then park in the parking "Amerika", just 50 meters away.
   - question: "Q. How can I make a change to my application?"
     answer: >
-            We have a 2-months cancellation policy.
+            We have a 2-months cancellation policy, no questions asked.
   - question: "Q. What are entry requirements?"
     answer: >
             None. We prioritize applications from freelancers and cloud native engineers, but our doors are open to everyone
