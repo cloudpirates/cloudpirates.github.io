@@ -5,7 +5,7 @@
       <div class="col-lg-10 mx-auto col-md-12">
         <div class="page-header">
           <h2> {{ .Title }}</h2>
-          <p>{{.Params.subTitle}}</p>
+          <p>{{.Params.subTitle | safeHTML }}</p>
           <br><center>Subscribe to our <a href="https://mailchi.mp/b43ca621aa2e/signup">newsletter</a></center>
         </div>
       </div>

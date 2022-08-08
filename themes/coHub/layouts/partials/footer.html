@@ -30,7 +30,7 @@
           </ul>
         </div>
         <div class="footer-copyright-text">
-          <p> {{ replace .Site.Params.copyright "{year}" now.Year }} </p>
+          <p> {{ replace .Site.Params.copyright "{year}" now.Year | safeHTML }} </p>
           <ul>
             {{ $sitemap := .Site.Menus.sitemap }}
 						{{ range $sitemap }}

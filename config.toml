@@ -51,7 +51,7 @@ title = 'Cloud Pirates'
 [params]
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} Cloud Pirates B.V."
+  copyright = '© {year} Cloud Pirates B.V.  <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.'
   formspreeURL = "https://formspree.io/mbjwlead"
   googleAnalytics = "G-LFD1LL33N6"
   logo = "images/skull.png"

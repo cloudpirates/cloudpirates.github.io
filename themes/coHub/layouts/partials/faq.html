@@ -15,7 +15,7 @@
             <div class="faq-content">
               <h3>{{.question}}</h3>
               <p>
-                  {{.answer}}
+                  {{.answer | safeHTML }}
               </p>
             </div>
           </div>
