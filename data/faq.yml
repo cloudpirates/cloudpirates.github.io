@@ -2,6 +2,9 @@
 enable: true
 title: "Frequently Asked Questions"
 faq:
+  - question: "Q. What is Cloud Native?"
+    answer:  "This is the [definition](https://github.com/cncf/foundation/blob/main/charter.md) from CNCF"
+
   - question: "Q. How do I apply?"
     answer:  "Get in touch via the contact form"
             

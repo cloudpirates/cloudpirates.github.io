@@ -2,7 +2,7 @@
 title: "About"
 date: 2022-08-01T10:41:03+06:00
 subTitle: >
-        Our goal is to create a community of technologists, artists, freelancers, active citizens to promote positive impact of tech on society and foster a new collaborative way of working
+        Our goal is to create a community of technologists, artists, freelancers, active citizens to promote positive impact of tech on society and foster a new collaborative way of working. We welcome professionals from all walks of life and business, with particular attention to cloud native engineers, data and DevOps enngineers.
 sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"

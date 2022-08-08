@@ -67,7 +67,7 @@ title = 'Cloud Pirates'
   phone = "+(31) 643197789"
 
   [params.map]
-  APIkey = "AIzaSyCy5OeQLbF2Hmo1f3yD_5oN8x9zm5d7PrY"
+  APIkey = "AIzaSyD2vPYYzrF2d_EAqc_5oA7G4mnpggy78AQ"
   latitude = "52.375686"
   longitude = "4.926027"
   pinImage = "images/pin.png"
