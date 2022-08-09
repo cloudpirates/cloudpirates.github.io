@@ -52,7 +52,7 @@ title = 'Cloud Pirates'
   aboutPageURL = "blog"
   contactLink = "contact"
   copyright = '© {year} Cloud Pirates B.V.  <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.'
-  formspreeURL = "https://formspree.io/mbjwlead"
+  formspreeURL = "https://formspree.io/f/xyyvyyzo"
   googleAnalytics = "G-LFD1LL33N6"
   logo = "images/skull.png"
   footerlogo = "images/bottom.png"
@@ -60,7 +60,7 @@ title = 'Cloud Pirates'
 
 
   [params.address]
-  address = "Piet Heinkade 217, 1087AW, Amsterdam, The Netherlands"
+  address = "Piet Heinkade 217, 1087AW, Amsterdam, The Netherlands <br> +31-643197789    <a href='mailto:info@cloudpirates.nl'>info [at] cloudpirates.nl</a>"
   email = "info@cloudpirates.nl"
   openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
   openingHours = "We are open from 9am — 5pm week days."
