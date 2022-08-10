@@ -57,7 +57,7 @@ title = 'Cloud Pirates'
   contactLink = "contact"
   copyright = '© {year} Cloud Pirates B.V.  <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.'
   formspreeURL = "https://formspree.io/f/xyyvyyzo"
-  googleAnalytics = "G-LFD1LL33N6"
+  googleAnalytics = "G-2JVEKLC0CH"
   logo = "images/skull.png"
   footerlogo = "images/bottom.png"
   footerDescription = "A collaborative space for cloud native, data and DevOps engineers"
