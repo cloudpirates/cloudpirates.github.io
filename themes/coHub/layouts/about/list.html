@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <div class="page-header">
+        <div class="page-header"><br>
           <h2>{{ .Title}}</h2>
           <p>{{ .Params.subTitle }}</p>
         </div>
@@ -22,17 +22,15 @@
       <div class="col-lg-6">
         <div class="story-slider">
           {{range .Params.sliderImage }}
-            <div class="slider-item">
-              <img src="{{ .image | absURL }}" alt="images">
-            </div>
+          <div class="slider-item">
+            <img src="{{ .image | absURL }}" alt="images">
+          </div>
           {{end}}
         </div>
       </div>
     </div>
   </div>
 </section>
-{{ partial "mission.html" . }}
-{{ partial "gallery.html" . }}
 {{ partial "testimonial.html" . }}
 {{ partial "client.html" . }}
 {{ partial "members.html" . }}
