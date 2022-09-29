@@ -87,11 +87,11 @@ title = 'Cloud Pirates'
   weight = 2
   [[params.social]]
   icon = "ti-linkedin"
-  url = "https://dribbble.com/"
+  url = "https://www.linkedin.com/company/cloud-pirates/"
   weight = 3
   [[params.social]]
   icon = "ti-instagram"
-  url = "https://www.instagram.com/"
+  url = "https://www.instagram.com/cloudpirates_official/"
   weight = 4
   
   
